@@ -1,0 +1,18 @@
+{
+  "name": "file-compressor",
+  "version": "1.0.0",
+  "description": "This is file compressor(ZIP,GZIP,TAR etc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Sumit Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}
